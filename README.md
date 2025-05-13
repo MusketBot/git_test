@@ -1,3 +1,2 @@
 # git_test
-Hello Odin!
-I am learning how to use git
+Hello Odin! How to add commit

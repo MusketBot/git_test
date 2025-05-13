@@ -1,1 +1,2 @@
 I am learning how to use git
+It is a nice day today 5/13/2025
